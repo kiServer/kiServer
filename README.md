@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kia
 - 👀 I’m interested in HTML CSS JavaScript React JS
-- 🌱 I’m currently learning PHP - Python - Node Js
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on everything ... 
 - 📫 How to reach me No Way :( ...
 
